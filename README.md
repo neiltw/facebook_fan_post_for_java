@@ -4,6 +4,6 @@
 
 2.setting mysql connect
 
-3.run runfan.java code auto get fancebook fan data
+3.run runfan.java code get fancebook fan data
 
 
